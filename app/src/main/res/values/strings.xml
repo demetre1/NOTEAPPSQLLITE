@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteAppSqlLite</string>
+    <string name="title">Title</string>
+    <string name="notes">Notes</string>
+    <string name="add_note">Add note</string>
+    <string name="save">Save</string>
+</resources>
